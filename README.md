@@ -2,8 +2,8 @@
 
 This repository contains the analysis code and scripts used in the study:
 
-> **[🟦 Unraveling Rare Codon Bias in Actinomycetota: Lineage-Specific and 5'Terminal Enrichment Across 1936 Genomes]**  
-> (Submitted to [🟦 Genome Biology], [🟦 October 2025])
+> **Unraveling Rare Codon Bias in Actinomycetota: Lineage-Specific and 5'Terminal Enrichment Across 1936 Genomes**  
+> (Submitted to Genome Biology, October 2025)
 
 ---
 
