@@ -9,7 +9,7 @@ This repository contains the analysis code and scripts used in the study:
 
 ## 📘 Overview
 This repository includes the core scripts and workflows used to process, analyze, and visualize data for the manuscript.  
-It is currently a **preliminary release (v0.1-preprint)** created to accompany the submission.
+It is currently a **preliminary release (v0.2-preprint)** created to accompany the submission.
 
 ---
 
