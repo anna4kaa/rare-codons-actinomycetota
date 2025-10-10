@@ -16,7 +16,10 @@ It is currently a **preliminary release (v0.1-preprint)** created to accompany t
 ## 📁 Contents
 - `jupyter_notebooks/` – core analysis scripts used for data processing and figure generation  
 - `genbank_actinokineospora/` – genbank files for Actinokineospora genera
-- `README.md` – current document 
+- `README.md` – current document
+- `LICENSE` – MIT license
+- `requirements.txt' – requirements
+  
 
 ## 🖊️ Note
 
