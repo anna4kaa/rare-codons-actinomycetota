@@ -18,7 +18,7 @@ It is currently a **preliminary release (v0.1-preprint)** created to accompany t
 - `genbank_actinokineospora/` – genbank files for Actinokineospora genera
 - `README.md` – current document
 - `LICENSE` – MIT license
-- `requirements.txt' – requirements
+- `requirements.txt` – requirements
   
 
 ## 🖊️ Note
