@@ -51,7 +51,7 @@ transport, regulatory, etc.). |
 
 ## ⚙️ Requirements
 
-Typical dependencies include:
+Dependencies:
 ```bash
 python >= 3.8
 pandas
