@@ -1,0 +1,26 @@
+# Core dependencies
+pandas>=2.1.0
+numpy>=1.26.0
+scipy>=1.13.0
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+adjustText>=0.8
+
+# Graph and clustering
+networkx>=3.2.0
+python-louvain>=0.16
+
+# Bioinformatics
+biopython>=1.83
+
+# Utilities
+tqdm>=4.66.0
+glob2>=0.7
+
+# Optional (for OS and regex handling; included in standard library)
+# os
+# re
+# collections
+# glob
