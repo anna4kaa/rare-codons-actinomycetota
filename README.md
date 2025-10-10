@@ -18,3 +18,13 @@ It is currently a **preliminary release (v0.1-preprint)** created to accompany t
 - `genbank_actinokineospora/` – genbank files for Actinokineospora genera
 - `README.md` – current document 
 
+## 🖊️ Note
+
+This repository contains all Jupyter notebooks used for the analysis of **codon usage bias**, **rare codon distribution**, and their enrichment in **biosynthetic gene clusters (BGCs)** across 11 genera of the *Actinomycetota* phylum.  
+The primary focus is on the **rare TTA (Leu)** codon, which is known to play a regulatory role in *Streptomyces* and related genera.  
+All analyses were also **repeated for the AGA (Arg)** codon using the same pipeline and methodology unless otherwise stated.  
+
+## 📜 License
+
+This repository is released under the MIT License.
+Please refer to the **LICENSE** for details.
